@@ -1,6 +1,6 @@
 # FutureTech
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma" />
+<img src="https://skillicons.dev/icons?i=html,scss,js,figma" />
 
 <img src="https://github.com/BrovkinArtem/FutureTech/blob/main/screenshots/futuretech1.png" width="100%" />
 
