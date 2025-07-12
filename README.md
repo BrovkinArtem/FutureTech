@@ -39,3 +39,7 @@
 1. Клонируй репозиторий:
 ```bash
 git clone https://github.com/BrovkinArtem/FutureTech.git
+```
+1. Клонируй репозиторий:
+```bash
+2. Откройте файл `index.html` в браузере.
