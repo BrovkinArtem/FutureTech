@@ -40,6 +40,7 @@
 ```bash
 git clone https://github.com/BrovkinArtem/FutureTech.git
 ```
-1. Клонируй репозиторий:
+2. Открой файл в браузере:
 ```bash
 2. Откройте файл `index.html` в браузере.
+```
